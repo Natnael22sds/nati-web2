@@ -80,13 +80,13 @@ a:hover {
 }
 
 .dark {
-	background: var(--green-color);
+	background: var(--red-color);
 }
 
 .medium {
-	background: var(--yellow-color);
+	background: var(--green-color);
 }
 
 .light {
-	background: var(--red-color);
+	background: var(--yellow-color);
 }
